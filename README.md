@@ -1,2 +1,2 @@
-# Big_Data_Lab
-This file contains folders &amp; assignments of Big Data Technology Subject
+# NLP Lab
+This file contains Folders, Lab Assignments of NLP Subject
